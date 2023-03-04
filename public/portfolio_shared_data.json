@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Kameron Watts",
+      "titles": [ "Full-Stack Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/KamWatts",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/kamthecoder/",
           "class": "fab fa-instagram"
         }
       ],
