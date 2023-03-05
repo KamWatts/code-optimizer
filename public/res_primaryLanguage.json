@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Kameron Watts, a motivated software developer from Seattle, WA. I discovered my passion for coding in 2019 during a deployment. In my downtime, I would create funny websites for my friends to laugh at. This is before I knew about GitHub, and since then, I have a new laptop. I am currently transitioning from the public safety field into software development. My hobbies are a toss up between cinematic photography and restuarant-hopping. My attention-to-detail, ability to learn quickly, creativity, and ability to problem-solve in a team-oriented environment will catapult me into a successful software development career.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "My photography website",
+        "startDate": "2022",
+        "description": "I always wanted to have my own photography website. I decided to take on the task myself instead of building one on darkroom. I build this website with a glassmorphic-neon theme in mind. I want this webpage to feel like home to the viewer, just as much as it feels like home to me.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Blog Website",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p01.jpg",
@@ -55,8 +55,8 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Space Monkeys: The Game",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p01.jpg",
