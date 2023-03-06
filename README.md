@@ -4,6 +4,8 @@ This portfolio project is meant to showcase all of my hardwork and progress. Wit
 
 If you're exploring this repository, it is not by chance. You're either looking for inspiration, or you're looking to hire. I encourage you to ask me questions about how I built this application. I will be more than happy to show you the interworkings behind the reactivity of my app. Below is a breakdown of how I navigated th build process. Whether you choose to continue reading or skip straight to the website, enjoy!
 
+[My Portfolio Site](https://meek-cupcake-bbf019.netlify.app/)
+
 # Project Overview 📽️
 
 This portfolio is being built with HTML, SCSS, JavaScript, JavaScript Object Notation (aka JSON) and MonogoDB. The home page will feature a welcome section that introduces my name and title with animations that brings the text in from the left and right sides of the viewport. The names and title will fade away as you scroll down the webpage. As you continue down the home page, my portfolio projects will fade into view. You will be able to choose which project to view. The snapshots of each project will be featured and clickable. When you click into a project, it will render on a pop-up modal that has an outline that details what the project waas about and when it was built.
