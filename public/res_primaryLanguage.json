@@ -6,7 +6,8 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "profilepic": "images/myprofilepic.jpg"
       }
     },
     "projects": [
@@ -15,22 +16,22 @@
         "startDate": "2022",
         "description": "I always wanted to have my own photography website. I decided to take on the task myself instead of building one on darkroom. I build this website with a glassmorphic-neon theme in mind. I want this webpage to feel like home to the viewer, just as much as it feels like home to me.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/photography/photography_site.png",
+          "images/portfolio/photography/photo_gallery.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-reactjs-plain",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
           }
         ]
       },
@@ -39,8 +40,8 @@
         "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p01.jpg",
-          "images/portfolio/photography/p02.jpg"
+          "images/portfolio/blog/blog_site.png",
+          "images/portfolio/blog/blog_page.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -59,59 +60,56 @@
         "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p01.jpg",
-          "images/portfolio/adventure/p02.jpg"
+          "images/portfolio/game/spacemonkeys_game.png",
+          "images/portfolio/game/game_homepage.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack JavaScript Devloper Student",
+        "years": "01.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 1/20/22"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "REST API",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MongoDb",
+          "Chart.js",
+          "Node.js",
+          "GitHub",
+          "VS Code"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Udacity",
+        "title": "Front-End Nanodegree Student",
+        "years": "10/21 - 03/22",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5",
+          "CSS3",
+          "JavaScript"
         ]
       }
     ]
